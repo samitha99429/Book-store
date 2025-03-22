@@ -1,0 +1,16 @@
+[
+
+    {
+      "bookId": "29daa5a9-d466-4ab3-aef5-fb7c58250af4",
+      "authorId": "123",
+      "publisherId": "456",
+      "title": "darenSami",
+      "publicationDate": "2025-01-012",
+      "isbn": "123456789",
+      "pages": 300,
+      "genre": "Programming",
+      "description": "A guide to mastering GoLang.",
+      "price": 29.99,
+      "quantity": 10
+    }
+  ]
